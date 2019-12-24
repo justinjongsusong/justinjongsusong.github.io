@@ -1,4 +1,4 @@
----
+<!-- ---
 tags: # 태그 사용
     - tag1
     - tag2
@@ -33,6 +33,13 @@ header:  # 헤더에 유튜브 비디오 삽입
 
 
 link: https://github.com # Direct Link 만들기
+--- -->
+
+---
+layout: post
+title:  "sample post"
+date:   2019-12-19 21:48:14 +0900
+categories: sample
 ---
 
 이곳은 샘플 텍스트 입니다.
