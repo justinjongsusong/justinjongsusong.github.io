@@ -10,3 +10,7 @@ main:
     url: /영화/
   - title: "컴퓨터"
     url: /컴퓨터/
+
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
