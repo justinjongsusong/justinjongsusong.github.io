@@ -7,7 +7,7 @@ excerpt: "일방통행로"
 
 이 거리 이름은
 
-리시안셔(Lisianthus)가
+리시안셔스(Lisianthus)가
 
 이 길을 저자 안에서
 
