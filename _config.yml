@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "송종수"
+  name             : "JS Song"
   avatar           : "/assets/images/liverpoolfc.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "지극히 사적인 글쓰기"
   location         : "Somewhere"
