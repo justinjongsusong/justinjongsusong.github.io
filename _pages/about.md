@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about.html
 title: "About"
 excerpt: "걸어가느냐 아니면 비행기를 타고 위를 날아가느냐에 따라 시골 길이 발휘하는 힘은 전혀 달라진다."
 ---
