@@ -8,8 +8,8 @@ main:
     url: /책/
   - title: "영화"
     url: /영화/
-  - title: "노래"
-    url: "/노래/"
+  - title: "음악"
+    url: "/음악/"
 
 
 sidebar:
