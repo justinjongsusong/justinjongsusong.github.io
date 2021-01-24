@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "일방통행로" # 블로그 이름
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "송종수"
+name                     : "JS Song"
 description              : "아케이드 프로젝트"
 url                      : # "http:// justinjongsusong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "송종수"
-  avatar           : "/assets/images/jongsusong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/liverpoolfc.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "지극히 사적인 글쓰기"
   location         : "Somewhere"
   email            :
