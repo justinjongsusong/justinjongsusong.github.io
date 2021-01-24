@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "dark" # "default" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jongsu Song"
   avatar           : "/assets/images/liverpoolfc.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "지극히 사적인 글쓰기"
+  bio              : "지극히 사적인 글쓰"
   location         : "Somewhere"
   email            :
   links:
