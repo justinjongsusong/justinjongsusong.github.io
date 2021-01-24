@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "리시안셔스(Lisianthus)가"
 excerpt: "일방통행로"
 ---
 
