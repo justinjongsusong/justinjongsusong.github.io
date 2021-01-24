@@ -2,14 +2,13 @@
 main:
   - title: "소개" # 네비게이션 바에 표시 되는 이름
     url: "/about/" # 클릭시 이동할 URL
-  - title: "시"
-    url: "/시/"
-  - title: "책"
-    url: /책/
-  - title: "영화"
-    url: /영화/
-  - title: "음악"
-    url: "/음악/"
+  - title: "카테고리별"
+    url: "/categories/"
+  - title: "태그별"
+    url: /tags/
+  - title: "연도별"
+    url: /year-archive/
+
 
 
 sidebar:
