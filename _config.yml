@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "일방통행로" # 블로그 이름
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jongsu Song"
+name                     : "송종수"
 description              : "아케이드 프로젝트"
 url                      : # "http:// justinjongsusong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
